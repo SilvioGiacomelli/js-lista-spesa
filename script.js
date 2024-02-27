@@ -1,4 +1,4 @@
-let listaSpesa = ['banane', 'pane', 'cornetti', 'lamponi', 'boomerang', 'zaini', 'broccoli', 'sofficini', 'cappellini', 'pompelmi', 'calamari'];
+let listaSpesa = ['banane', 'pane', 'cornetti', 'lamponi', 'boomerang', 'zaini', 'broccoli', 'sofficini', 'cappellini', 'pompelmi', 'calamari', 'ricarica netflix', 'smartphone'];
 
 const mainList = document.querySelector(".lista-spesa");
 
